@@ -1,0 +1,7 @@
+D:\GitHub\YandexCroud\FirstProblem\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\GitHub\YandexCroud\FirstProblem\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\GitHub\YandexCroud\FirstProblem\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\GitHub\YandexCroud\FirstProblem\ConsoleApp1\obj\Debug\FirstAnswer.csproj.AssemblyReference.cache
+D:\GitHub\YandexCroud\FirstProblem\ConsoleApp1\obj\Debug\FirstAnswer.csproj.CoreCompileInputs.cache
+D:\GitHub\YandexCroud\FirstProblem\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\GitHub\YandexCroud\FirstProblem\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

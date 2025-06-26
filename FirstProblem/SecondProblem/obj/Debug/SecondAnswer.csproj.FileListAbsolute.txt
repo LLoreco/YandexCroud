@@ -1,0 +1,7 @@
+D:\GitHub\YandexCroud\FirstProblem\SecondProblem\bin\Debug\SecondProblem.exe.config
+D:\GitHub\YandexCroud\FirstProblem\SecondProblem\bin\Debug\SecondProblem.exe
+D:\GitHub\YandexCroud\FirstProblem\SecondProblem\bin\Debug\SecondProblem.pdb
+D:\GitHub\YandexCroud\FirstProblem\SecondProblem\obj\Debug\SecondAnswer.csproj.AssemblyReference.cache
+D:\GitHub\YandexCroud\FirstProblem\SecondProblem\obj\Debug\SecondAnswer.csproj.CoreCompileInputs.cache
+D:\GitHub\YandexCroud\FirstProblem\SecondProblem\obj\Debug\SecondProblem.exe
+D:\GitHub\YandexCroud\FirstProblem\SecondProblem\obj\Debug\SecondProblem.pdb
